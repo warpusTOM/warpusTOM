@@ -1,6 +1,12 @@
 <div align="right">
 
-<img src="assets/trophy.png" alt="Champion trophy" width="180" align="right"/>
+<img src="assets/trophy.png" alt="Champion trophy" width="180"/>
+
+<a href="https://www.youtube.com/@sushikeizohaha"><img src="assets/icons/youtube.png" alt="YouTube" width="26"/></a>
+<a href="https://discord.gg/gSvWXQX5h8"><img src="assets/icons/discord.png" alt="Discord" width="26"/></a>
+<a href="https://www.roblox.com/communities/5225429/Bienvenidos-todos#!/about"><img src="assets/icons/studio.png" alt="Studio group" width="26"/></a>
+<a href="https://sushikeizo-games-hub.vercel.app"><img src="assets/icons/website.png" alt="Games Hub" width="26"/></a>
+<a href="https://github.com/warpusTOM"><img src="assets/icons/github.png" alt="GitHub" width="26"/></a>
 
 </div>
 
